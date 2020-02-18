@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace xamarintesst1
 {
-    // Learn more about making custom code visible in the Xamarin.Forms previewer
+    // Learn more about making custom code visible in the Xamarin.Forms previewer12
     // by visiting https://aka.ms/xamarinforms-previewer
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
